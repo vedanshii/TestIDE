@@ -6,5 +6,6 @@ class great{
         good n = new good();
         System.out.println(n.getgood());
         System.out.println(n);
+        System.out.println(n+" "+ "Works");
     }
 }
